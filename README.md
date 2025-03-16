@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-RenAI is a deep learning-based project aimed at recognizing handwritten text in Renaissance Spanish manuscripts. This project utilizes advanced image processing techniques and neural networks to convert scanned manuscript pages into machine-readable text.
+RenAI is a deep learning-based project aimed at recognizing handwritten text in Renaissance Spanish manuscripts. This project utilizes advanced image processing techniques and neural networks to convert scanned manuscript pages into human-readable text.
 
 ## Features
 
@@ -11,14 +11,6 @@ RenAI is a deep learning-based project aimed at recognizing handwritten text in 
 - Text detection using CRAFT (Character Region Awareness for Text Detection)
 - Word extraction and normalization
 - Handwritten text recognition
-
-## Installation
-
-To set up the project, install the required dependencies:
-
-```bash
-pip install scikit-image PyMuPDF opencv-python torch torchvision tensorflow
-```
 
 
 ## Project Structure
@@ -44,4 +36,12 @@ The project uses a combination of:
 - CRAFT for text detection
 - Custom CNN + RNN architecture for historical sclupture text recognition
 
+
+## Model Performance
+| Metric | Value |
+|--------|-------|
+| Character Accuracy | 1.0 |
+| CER | 0.0 |
+| CTC Loss | 0.2579 |
+| Validation Loss | 0.0364 |
 
