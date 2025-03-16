@@ -45,3 +45,9 @@ The project uses a combination of:
 | CTC Loss | 0.2579 |
 | Validation Loss | 0.0364 |
 
+![image](https://github.com/user-attachments/assets/da9c46f0-ed9a-4a61-8fff-262818d3f802)
+
+![image](https://github.com/user-attachments/assets/08abd5ac-4082-4cac-8bd0-7f5332eeb1ae)
+
+
+
